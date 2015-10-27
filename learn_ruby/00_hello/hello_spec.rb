@@ -116,7 +116,7 @@
 require "hello"
 
 describe "the hello function" do
-  it "says hello" do
+  it "says Hello!" do
     hello.should == "Hello!"
   end
 end
